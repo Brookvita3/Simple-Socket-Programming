@@ -1,4 +1,3 @@
-
 # Simple socket programming project
 
 A simple project for learning socket programming. It simulate a simple TCP chat Room in Python with multi-thread. Need basic knowledge about socket, threat and python, of course :)
@@ -7,4 +6,3 @@ A simple project for learning socket programming. It simulate a simple TCP chat 
 ## Reference
 
 - [Simple TCP Chat Room in Python](https://youtu.be/3UOyky9sEQY?si=I1BbMx918TuIrX0g)
-
